@@ -64,9 +64,6 @@ The project aims to identify important trends, including the impact of COVID-19 
 - **Predictive Modeling**: Apply machine learning to predict future trends in hospital admissions and resource needs.
 - **Optimization**: Refine visualizations with more detailed filtering and segmentation options.
 
-## 🧑‍💻 Authors
-
-- **Ikram Choukhantri**
 
 
 
