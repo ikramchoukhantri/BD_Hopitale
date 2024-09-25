@@ -31,13 +31,13 @@ The project aims to identify important trends, including the impact of COVID-19 
 ## 📊 Dashboards and Visualizations
 
 1. **Patient Admissions by Gender**  
-   ![Admissions by Gender](./dash1.png)
+   ![Admissions by Gender](./dashboard1.png)
 
 2. **Geographical Distribution of Patients**  
-   ![Geographical Distribution](./dash2.png)
+   ![Geographical Distribution](./dashboard2.png)
 
 3. **Average Hospitalization Duration by Service**  
-   ![Average Hospitalization Duration](./dash3.png)
+   ![Average Hospitalization Duration](./dashboard3.png)
 
 
 ## ⚙️ How It Works
