@@ -27,22 +27,18 @@ The project aims to identify important trends, including the impact of COVID-19 
 - **Tools**: Power BI, Microsoft Excel (for data pre-processing)
 - **Data Sources**: Hospital data from Moroccan health institutions during COVID-19.
   
+
 ## 📊 Dashboards and Visualizations
 
 1. **Patient Admissions by Gender**  
-   ![Admissions by Gender](path_to_image_admissions_gender)
+   ![Admissions by Gender](./dash1.png)
 
 2. **Geographical Distribution of Patients**  
-   ![Geographical Distribution](path_to_image_geographical_distribution)
+   ![Geographical Distribution](./dash2.png)
 
 3. **Average Hospitalization Duration by Service**  
-   ![Average Hospitalization Duration](path_to_image_avg_duration_by_service)
+   ![Average Hospitalization Duration](./dash3.png)
 
-4. **COVID-19 Impact on Hospital Admissions**  
-   ![COVID-19 Impact](path_to_image_covid_impact)
-
-5. **Human Resources Analysis**  
-   ![Human Resources](path_to_image_human_resources)
 
 ## ⚙️ How It Works
 
